@@ -1,1 +1,13 @@
-
+ gcc -g p5original.c
+ ./a.out
+Enter a number
+12
+Enter a number
+16
+4 is hcf for 12 and 16 
+ ./a.out
+Enter a number
+45
+Enter a number
+70
+5 is hcf for 45 and 70 
