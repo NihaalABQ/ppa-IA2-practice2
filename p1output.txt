@@ -1,1 +1,6 @@
-
+ gcc -g p1original.c
+ ./a.out
+Enter base and height of triangle
+1
+2
+Area of the triangle with base 1.00 and height 2.00 is 1.00
