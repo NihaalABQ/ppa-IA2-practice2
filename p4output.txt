@@ -1,1 +1,20 @@
-
+ gcc -g p4original.c
+ ./a.out
+Enter size of array
+5
+Input array elements
+1
+2
+7
+8
+12
+20 
+ ./a.out
+Enter size of array
+4 
+Input array elements
+6
+8
+12
+5
+26
