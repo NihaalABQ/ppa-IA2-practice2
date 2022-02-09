@@ -1,6 +1,13 @@
 #include <stdio.h>
 
-int main ()
+void input_string(char a[])
 {
-  return 0;
+
+}
+
+int main()
+{
+  char a[];
+  input_string(a);
+  
 }

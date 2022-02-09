@@ -23,4 +23,4 @@ int main ()
   find_area(b,h,&a);
   output(b,h,a);
   return 0;
-}
+};
