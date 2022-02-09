@@ -1,1 +1,12 @@
+ gcc -g p3original.c
+ ./a.out
+Enter a number
+8
+8 is a composite number
+ ./a.out
+Enter a number
+3
+3 is not a composite number
+ 
+
 
